@@ -10,6 +10,13 @@
 
 ---
 
+## 🎥 Link para o Vídeo
+O vídeo de demonstração do sistema SYNAPSE em funcionamento está disponível no link abaixo:
+
+> **[https://youtu.be/99ZBT0h5VSE]**
+
+---
+
 ## 🎯 O Problema
 O tema "O Futuro do Trabalho" aponta para uma transformação global impulsionada pela Inteligência Artificial, robótica e automação. Este cenário cria "novas oportunidades", mas também "desafios inéditos". O Fórum Econômico Mundial estima que quase um quarto das profissões mudará radicalmente até 2027.
 
@@ -53,10 +60,3 @@ O projeto cumpre rigorosamente **todos** os requisitos técnicos solicitados no 
 * **Funções Modulares:** É 100% modularizado. Todo o código é organizado em dezenas de funções com passagem de parâmetros e retorno (ex: `realizar_login(db)`, `criar_post(username, db)`).
 * **Dicionários como Base de Dados:** **Toda** a base de dados do sistema (usuários, posts, comentários, curtidas, conexões, projetos, trilhas, cursos, profissões) é gerenciada através de dicionários complexos e aninhados.
 * **Usabilidade:** Garante uma boa experiência de usuário com um design de console limpo, feedback constante (mensagens de erro e sucesso) e navegação intuitiva.
-
----
-
-## 🎥 Link para o Vídeo
-O vídeo de demonstração do sistema SYNAPSE em funcionamento está disponível no link abaixo:
-
-> **[COLE AQUI O LINK DO SEU VÍDEO NO YOUTUBE]**
